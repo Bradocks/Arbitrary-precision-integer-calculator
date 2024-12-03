@@ -22,9 +22,7 @@ This project implements a custom 'BigInt' class to handle large integers with ar
 *How to Run
 
 1. Clone the repository:
-   bash
-   git clone https://github.com/your-username/bigint-calculator.git
-   cd bigint-calculator
+   
 2. Run the calculator:
    python big_int_calculator.py
    
