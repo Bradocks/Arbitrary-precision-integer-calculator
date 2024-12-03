@@ -152,7 +152,7 @@ class BigInt:
 
 def repl():
     print("Welcome to the Arbitrary-Precision Integer Calculator!")
-    print("Enter commands like 'add 123 456' or 'mul 10 20'")
+    print("Enter commands like 'add 12 56' or 'mul 103 207'")
     print("Supported operations: add, sub, mul, div, mod, pow, fact")
     while True:
         try:
